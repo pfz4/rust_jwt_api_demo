@@ -1,0 +1,13 @@
+# Cargo files
+/debug
+/target
+/Cargo.lock
+
+# rustfmt backup files
+**/*.rs.bk
+
+# configfile
+/.env
+
+# editor config
+/.idea
